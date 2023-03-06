@@ -20,7 +20,7 @@ const Footer = ({footerAPI:{titles,links}}) => {
             ))}
           </div>
           <div className='mt-5 text-center'>
-            <p className='text-sm md:text-center'>DESIGNED BY<sup className='text-base font-bold'></sup>  <span className='font-semibold'>YUNUS</span></p>
+            <p className='text-sm md:text-center'>DESIGNED BY<sup className='text-base font-bold'></sup>  <span className='font-semibold'>YUNUSAnvar</span></p>
           </div>
         </div>
       </footer>
